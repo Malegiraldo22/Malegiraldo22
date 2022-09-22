@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I'm Alejandro Giraldo a Data Scientist and Environmental engineer. Since 2020 I started to study Data Science. Here you can find info about my tech stack and some of the projects I've worked on so far. If you want more info about me you can look at my linkedin or my digital CV<br>
 
+Hola! Soy Alejandro Giraldo, Data Scientist e Ingeniero Ambiental. Desde el 2020 inicié a estudiar Data Science. Aquí podrás encontrar ingormación sobre el stack tecnológico que uso y algunos de los proyectos en los que he trabajado hasta el momento. Si quieres saber más sobre mi puedes ver mi linkedin o mi CV digital<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magiraldo) [![Digital CV](https://img.shields.io/badge/Digital_CV-40AEF0?logoColor=white&logo=streamlit)](https://malegiraldo22-portafolio-inicio-dzycpq.streamlitapp.com)
