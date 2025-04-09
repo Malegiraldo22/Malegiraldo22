@@ -57,10 +57,6 @@ I’m a data scientist and environmental engineer passionate about using data to
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malegiraldo22&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malegiraldo22&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
