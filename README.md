@@ -1,22 +1,78 @@
-# 💫 About Me:
-Hi! I'm Alejandro Giraldo a Data Scientist and Environmental engineer. Since 2020 I started to study Data Science. Here you can find info about my tech stack and some of the projects I've worked on so far. If you want more info about me you can look at my linkedin or my digital CV<br>
+<h1 align="center">👋 Hi, I'm Alejandro Giraldo</h1>
 
-Hola! Soy Alejandro Giraldo, Data Scientist e Ingeniero Ambiental. Desde el 2020 inicié a estudiar Data Science. Aquí podrás encontrar ingormación sobre el stack tecnológico que uso y algunos de los proyectos en los que he trabajado hasta el momento. Si quieres saber más sobre mi puedes ver mi linkedin o mi CV digital<br>
+<p align="center">
+  📊 Data Scientist · 🌱 Environmental Engineer · 💡 Applied AI Explorer
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magiraldo) [![Digital CV](https://img.shields.io/badge/Digital_CV-40AEF0?logoColor=white&logo=streamlit)](https://malegiraldo22-portafolio-inicio-dzycpq.streamlitapp.com)
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-
-# 🔥 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Malegiraldo22&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malegiraldo22&layout=compact&theme=radical&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://linkedin.com/in/magiraldo">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://malegiraldo22-portafolio-inicio-dzycpq.streamlitapp.com">
+    <img src="https://img.shields.io/badge/Digital_CV-40AEF0?style=flat&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Malegiraldo22&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://komarev.com/ghpvc/?username=Malegiraldo22&style=flat-square&color=blue" alt=""/>
+## 🧠 About Me
+
+I’m a data scientist and environmental engineer passionate about using data to uncover patterns and inform decisions. Since 2020, I’ve been exploring how technology, statistics, and storytelling can be combined to solve real-world problems — from misinformation to automation.
+
+📌 I'm especially interested in:
+- Applied Machine Learning for societal impact  
+- Data pipelines and automation  
+- NLP, bots, and human-centered AI  
+- Academic research and open data  
+
+> ✨ Bilingual (ES/EN) communicator who believes in open-source collaboration and lifelong learning.
+
+---
+
+## 📚 Selected Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [**spotify-to-ytmusic-migrator**](https://github.com/Malegiraldo22/spotify-to-ytmusic-migrator) | Automatically migrates your Spotify playlists to YouTube Music. | Python, Spotipy, YouTube API |
+| [**Analisis-covid-usa**](https://github.com/Malegiraldo22/Analisis-covid-usa) | In-depth analysis of COVID-19 data in the U.S., with dashboards and insights. | Python, Jupyter, Pandas |
+| [**F1Newsletter**](https://github.com/Malegiraldo22/F1Newsletter) | Scrapes race results and generates a summary newsletter. | Web scraping, Python |
+| [**HaloBotTrainingData**](https://github.com/Malegiraldo22/HaloBotTrainingData) | Custom training dataset for a chatbot in the Halo universe. | JSON, NLP, Python |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · Java  
+**Data:** Pandas · NumPy · scikit-learn · Plotly  
+**Databases:** PostgreSQL · MongoDB · MySQL  
+**Frameworks & Tools:** Spring Boot · Streamlit · Jupyter · Adobe Illustrator  
+**Collaboration:** Jira · Git · GitHub Projects
+
+---
+
+## 📊 GitHub Stats & Animations
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Malegiraldo22&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malegiraldo22&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malegiraldo22&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+## 📬 Contact
+
+- 📫 Feel free to reach out on [LinkedIn](https://linkedin.com/in/magiraldo)  
+- 💼 Check out my [Digital CV](https://malegiraldo22-portafolio-inicio-dzycpq.streamlitapp.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Malegiraldo22&style=flat-square&color=blue" alt="profile views"/>
+</p>
