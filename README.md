@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/magiraldo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="https://malegiraldo22-portafolio-inicio-dzycpq.streamlitapp.com">
-    <img src="https://img.shields.io/badge/Digital_CV-40AEF0?style=flat&logo=streamlit&logoColor=white" />
+  <a href="https://malegiraldo22.carrd.co/">
+    <img src="https://img.shields.io/badge/Digital_CV-40AEF0?style=flat&logo=carrd&logoColor=white" />
   </a>
 </p>
 
@@ -54,6 +54,10 @@ I’m a data scientist and environmental engineer passionate about using data to
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Malegiraldo22&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malegiraldo22&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
