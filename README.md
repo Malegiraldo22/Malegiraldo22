@@ -69,7 +69,7 @@ I’m a data scientist and environmental engineer passionate about using data to
 ## 📬 Contact
 
 - 📫 Feel free to reach out on [LinkedIn](https://linkedin.com/in/magiraldo)  
-- 💼 Check out my [Digital CV](https://malegiraldo22-portafolio-inicio-dzycpq.streamlitapp.com)
+- 💼 Check out my [Digital CV](https://malegiraldo-portafolio.streamlit.app/)
 
 ---
 
